@@ -4,6 +4,10 @@ Example script for an unnamed charlieplex double 7-segment display for Arduino N
 # Back Story
 One day I found half of a broken baby food maker, which still had an intact motor and control panel. The control panel intrigued me since it lacks any membrane switches or mechanical buttons and instead appeared to operate by capacitance. I tried to deduce how to connect it to a UART or other interface but then gave up and decided to extract just the LED module. 
 
+![c-plex module](https://github.com/leftwebbing/CharlieplexModule/blob/main/CharliePlex.jpg)
+![side of c-plex module with part number](https://github.com/leftwebbing/CharlieplexModule/blob/main/CharliePlexPartNumber.jpg)
+![back of c-plex module with mystery pinout](https://github.com/leftwebbing/CharlieplexModule/blob/main/CharliePlexBack.jpg)
+
 This is the baby food maker where it came from [https://www.alibaba.com/product-detail/detail_1601604703955.html]
 
 ![baby food maker where I found the c-plex module](https://s.alicdn.com/@sc04/kf/H4e8adeb6761047afa0ea010f09b5c9fdd.jpg_150x150.jpg)
